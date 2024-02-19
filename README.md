@@ -12,7 +12,7 @@ MageComp's Magento 2 Google One Tap Login extension allows you to deliver a new 
 * Price= $99
   
 # Compatibility with Magento Versions
-Magento 2.4.X (CE, EE, ECE)
+Magento 2.2.6 to 2.4.6 (CE, EE, ECE)
 
 # Installing Via Composer
 
@@ -37,6 +37,18 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 7. Set the position of the Google One Tap popup.
    
 8. Increase the sign-up rate.
+
+# Configuration
+
+1. Enable or Disable the extension from here. Set it as enabled to use the features of the extension.
+
+![1 Configuration-4](https://github.com/patelanny/magento-2-google-one-tap-sign-in/assets/121279820/4d988b6d-3661-4872-9492-e12e4979d63f)
+
+2. Set YES for enabling the automatic login for the returning users
+
+![2 Configuration_continue-1024x377](https://github.com/patelanny/magento-2-google-one-tap-sign-in/assets/121279820/e9eb50b7-ebf3-4b45-be1a-93623217b673)
+
+
 
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
